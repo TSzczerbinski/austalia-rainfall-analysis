@@ -19,5 +19,5 @@ This project analyzes a dataset of daily weather observations in Australia to ex
 ## Note
 The dataset (`weatherAUS.csv`) is included for educational purposes only. Original data is from [Kaggle](https://www.kaggle.com/jsphyg/weather-dataset-rattle-package). Please respect the original license when using the data outside this repository.
 
-##License
+## License
 See the LICENSE file for details.
